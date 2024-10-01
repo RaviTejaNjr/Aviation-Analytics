@@ -1,5 +1,7 @@
 # Aviation-Analytics Power BI Dashboard<br>
 
+## Preview
+<img align="centre" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/60bef59d-5b43-4ba2-a61a-037a876b9972">
 
 ## Overview
 The Airline Flight Status Dashboard provides real-time insights into airline flight performance. <br>
