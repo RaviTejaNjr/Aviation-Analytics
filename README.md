@@ -54,5 +54,20 @@ Real-time data tracking: Visualize current flight statuses across multiple airpo
 Filterable views: Customize views by weekday, airport, airline, and cause of delay.<br>
 Detailed Insights: Break down delays and cancellations by weather, security, and air system performance.<br>
 
+## Usage
+The dashboard allows users to monitor flights and analyze patterns in delays and cancellations.<br>
+Users can filter the data based on various criteria for more granular insights.<br>
+
+## Future Enhancements
+Real-time API Integration: Connect live flight data using APIs to update the dashboard in real-time.<br>
+Advanced Analytics: Include predictive analytics to forecast delays and cancellations.<br>
+Global Coverage: Expand the dashboard to cover more international airports and airlines.<br>
+
+## License
+This project is licensed under the MIT License.<br>
+
 ## Data Source:
-Please Find the Data from this link: https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=Airline%20Flight%20Delays
+Please Find the Data from this link: https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=Airline%20Flight%20Delays<br>
+
+### PS:
+I couldn't share the Interactive POWER BI Dashboard as I don't have a Power BI Subscription/Work-email.
