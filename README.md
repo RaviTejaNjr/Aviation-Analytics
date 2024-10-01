@@ -69,5 +69,4 @@ This project is licensed under the MIT License.<br>
 ## Data Source:
 Please Find the Data from this link: https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=Airline%20Flight%20Delays<br>
 
-### PS:
-I couldn't share the Interactive POWER BI Dashboard as I don't have a Power BI Subscription/Work-email.
+### PS: I couldn't share the Interactive POWER BI Dashboard because I don't have a Power BI Subscription/Work Email. Sorry.
